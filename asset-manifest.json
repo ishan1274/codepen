@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ishan1274/codepen/static/css/main.b05d896b.css",
+    "main.js": "/ishan1274/codepen/static/js/main.592ea2bb.js",
+    "index.html": "/ishan1274/codepen/index.html",
+    "main.b05d896b.css.map": "/ishan1274/codepen/static/css/main.b05d896b.css.map",
+    "main.592ea2bb.js.map": "/ishan1274/codepen/static/js/main.592ea2bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05d896b.css",
+    "static/js/main.592ea2bb.js"
+  ]
+}
